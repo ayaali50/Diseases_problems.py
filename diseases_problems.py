@@ -319,7 +319,7 @@ def show_disease_info(name):
         st.subheader("Medical Tip (نصيحة طبية):")
         st.info("Chelation therapy and diet control are essential.")
         st.success("العلاج المخلب والتحكم في النظام الغذائي ضروريان.")
-          elif name == "Multiple Sclerosis":
+        elif name == "Multiple Sclerosis":
         st.header("Multiple Sclerosis (التصلب المتعدد)")
         st.subheader("Definition (تعريف):")
         st.write("A chronic autoimmune disorder affecting the central nervous system.")
